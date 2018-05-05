@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\MyProducts\\SabaIdea\\TVCastLibSampler\\TVCastLib\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "F:\\MyProducts\\SabaIdea\\TVCastLibSampler\\TVCastLib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.1.1\\res\\values-sw720dp\\values-sw720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 68,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "F:\\MyProducts\\SabaIdea\\TVCastLibSampler\\TVCastLib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.1.1\\res\\values-sw720dp\\values-sw720dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 68,
+                        "endOffset": 368
+                    }
+                }
+            }
+        ]
+    }
+]

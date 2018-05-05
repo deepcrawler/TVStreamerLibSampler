@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-websocket-patch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/core/libs/java-websocket-patch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
